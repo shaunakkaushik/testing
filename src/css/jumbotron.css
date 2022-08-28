@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+#right-jumbo{
+    transform: translate(-50%,-60%);
+    font-family: 'Montserrat', sans-serif !important;
+}
+
+#left-jumbo{
+    transform: translate(-70%,-60%);
+}
+
+#jumboImg{
+    width: 30vw;
+}
+
+#joinbutton{
+    font-family: 'Montserrat', sans-serif !important;
+}
+
+#link{
+    text-decoration: none;
+}

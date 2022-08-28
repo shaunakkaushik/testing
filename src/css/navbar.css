@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+html,body{
+    overflow-x: hidden;
+}
+
+#logotext{
+    font-family: 'Montserrat', sans-serif !important;
+}
+
+.menubutton{
+    font-family: 'Montserrat', sans-serif !important;
+    font-weight: bold !important;
+}
+
+.active{
+    text-decoration: underline !important;
+    text-decoration-color: #710193 !important;
+}
+
+.logo{
+    width: 8vh;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
