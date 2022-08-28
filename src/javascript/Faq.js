@@ -11,11 +11,11 @@ function Faq(){
         <>
             <Box sx={{height: '100vh', width: '100vw', position: 'relative'}}>
             <Box id= 'faq-holder' sx={{ position: "absolute", top: '50%', left:'50%'}}>
-                <Box sx={{ display: {sx: 'none', xs: 'none', md: 'flex'}, fontSize: '2.5rem', fontWeight: 'bolder', width: '100%', marginBottom:'4rem', color: '#111d5e'}}>
+                <Box sx={{ display: {sx: 'none', xs: 'none', md: 'flex'}, fontSize: '2rem', fontWeight: 'bolder', width: '100%', marginBottom:'4rem', color: '#111d5e'}}>
                     Frequenty Asked Questions
                 </Box>
 
-                <Box sx={{ display: {sx: 'flex', xs: 'flex', md: 'none' }, fontSize: '2.5rem', fontWeight: 'bolder', marginBottom:'4rem', color: '#111d5e'}}>
+                <Box sx={{ display: {sx: 'flex', xs: 'flex', md: 'none' }, fontSize: '2rem', fontWeight: 'bolder', marginBottom:'4rem', color: '#111d5e'}}>
                     FAQs
                 </Box>
         <Accordion >

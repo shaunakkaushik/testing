@@ -15,7 +15,7 @@ function Footer(){
                 <Box sx={{ml: 0}}>
                     <img src='logo192.png' alt="company-logo" className='logo'/>
                 </Box>
-                <Typography id='logotext' variant='h6' noWrap href='/' sx={{ letterSpacing: '0.1rem',fontWeight: '700', fontSize: '200%',display: 'flex', ml: '1%',color: 'white'}}> 
+                <Typography id='logotext' variant='h6' noWrap href='/' sx={{ letterSpacing: '0.1rem',fontWeight: '700', fontSize: '150%',display: 'flex', ml: '1%',color: 'white'}}> 
                     ©BRISK
                 </Typography>
 

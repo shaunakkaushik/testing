@@ -20,10 +20,10 @@ function WhyPart(){
                             <Avatar alt='wh' src='Logo192.png' sx={{marginLeft: 'auto', marginRight: 'auto'}}/>
                         </Box>
                         <Box sx={{width: '85%', ml: 'auto', mr: '2'}}>
-                            <Box sx={{ fontSize: '1.75rem', textAlign: 'center', fontWeight: 'bolder', color: '#111d5e'}}>
+                            <Box sx={{ fontSize: '1.5rem', textAlign: 'center', fontWeight: 'bolder', color: '#111d5e'}}>
                                 Your own professional identity
                             </Box>
-                            <Box sx={{ marginTop: '1rem', display: {xs: 'none', sm: 'none', md:'flex'}, textAlign: 'center',paddingLeft: '10%', paddingRight:'10%'}}>
+                            <Box sx={{ marginTop: '1rem', display: {xs: 'none', sm: 'none', md:'flex'}, textAlign: 'center',paddingLeft: '15%', paddingRight:'15%'}}>
                                 Build your Web 3.0 based verified professional profile
                             </Box>
                         </Box>
@@ -37,7 +37,7 @@ function WhyPart(){
                             <Avatar alt='wh' src='Logo192.png' sx={{marginLeft: 'auto', marginRight: 'auto'}}/>
                         </Box>
                         <Box sx={{width: '85%', ml: 'auto', mr: '2'}}>
-                            <Box sx={{ fontSize: '1.75rem', textAlign: 'center', fontWeight: 'bold', color: '#111d5e'}}>
+                            <Box sx={{ fontSize: '1.5rem', textAlign: 'center', fontWeight: 'bold', color: '#111d5e'}}>
                                 Access global network
                             </Box>
                             <Box sx={{ marginTop: '1rem', display: {xs: 'none', sm: 'none', md:'flex'}, textAlign: 'center'}}>
@@ -54,7 +54,7 @@ function WhyPart(){
                             <Avatar alt='wh' src='Logo192.png' sx={{marginLeft: 'auto', marginRight: 'auto'}}/>
                         </Box>
                         <Box sx={{width: '85%', ml: 'auto', mr: '2'}}>
-                            <Box sx={{ fontSize: '1.75rem', textAlign: 'center', fontWeight: 'bolder', color: '#111d5e'}}>
+                            <Box sx={{ fontSize: '1.5rem', textAlign: 'center', fontWeight: 'bolder', color: '#111d5e'}}>
                                 Get Curated Jobs
                             </Box>
                             <Box sx={{ marginTop: '1rem', display: {xs: 'none', sm: 'none', md:'flex'}, textAlign: 'center'}}>
@@ -71,10 +71,10 @@ function WhyPart(){
                             <Avatar alt='wh' src='Logo192.png' sx={{marginLeft: 'auto', marginRight: 'auto'}}/>
                         </Box>
                         <Box sx={{width: '85%', ml: 'auto', mr: '2'}}>
-                            <Box sx={{ fontSize: '1.75rem', textAlign: 'center', fontWeight: 'bolder', color: '#111d5e'}}>
+                            <Box sx={{ fontSize: '1.5rem', textAlign: 'center', fontWeight: 'bolder', color: '#111d5e'}}>
                                 Pay 0% commission
                             </Box>
-                            <Box sx={{ marginTop: '1rem', display: {xs: 'none', sm: 'none', md:'flex'}, textAlign: 'center', paddingLeft: '10%', paddingRight:'10%'}}>
+                            <Box sx={{ marginTop: '1rem', display: {xs: 'none', sm: 'none', md:'flex'}, textAlign: 'center', paddingLeft: '15%', paddingRight:'15%'}}>
                                 No talent fee or commission, you retain all earnings.
                             </Box>
                         </Box>

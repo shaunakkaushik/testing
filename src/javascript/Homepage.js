@@ -33,7 +33,7 @@ function HomePage(){
             </ScrollPage>
 
             <ScrollPage page={3}>
-                <Animator animation={ZoomInScrollOut}>
+                <Animator animation={FadeIn()}>
                     <Faq />
                 </Animator>
             </ScrollPage>

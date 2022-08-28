@@ -8,13 +8,13 @@ function Jumbotron(){
             <Grid container spacing={0}>
                 <Grid item xs={12} sm={12} md={6} sx={{position: 'relative', height: '90vh'}}>
                     <Box id='right-jumbo' sx={{position: 'absolute',top: '50%', left: '50%'}}>
-                         <Box sx={{fontSize: '2.3rem', fontWeight: 'bolder'}}>
+                         <Box sx={{fontSize: '2rem', fontWeight: 'bolder'}}>
                             Empowering Developers for a remote-first world
                         </Box>
                         <Button id='joinbutton' sx={{my: '4rem', minWidth: '15rem', fontSize: '1.5rem', backgroundColor: '#710193', color: 'white', textTransform: 'none', ":hover": {backgroundColor: 'white', color: '#710193'}}}>
                             Join Now
                         </Button>
-                        <Box sx={{fontSize: '1.5rem', fontWeight: 'bold'}}>
+                        <Box sx={{fontSize: '1.25rem', fontWeight: 'bold'}}>
                             Looking to Hire ? <a href='/' id='link'>Visit Companies</a>
                         </Box>
                     </Box>

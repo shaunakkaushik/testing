@@ -94,19 +94,19 @@ function NavBar(){
                 </Box>
 
             <Box sx={{ ml: 'auto', mr:'2%', flexGrow: 0, display: { xs: 'none', sm:'none', md: 'flex' } }}>
-              <Button id='1' className={`menubutton ${active==='1'?'active':''}`} onClick={GoToPage} sx={{ p: '1rem', minWidth: '5rem', mr: '2rem', fontSize: '1.35rem', textTransform: 'none', my: 2, color: 'black', display: 'block'}}>
+              <Button id='1' className={`menubutton ${active==='1'?'active':''}`} onClick={GoToPage} sx={{ p: '1rem', minWidth: '5rem', mr: '2rem', fontSize: '1rem', textTransform: 'none', my: 2, color: 'black', display: 'block'}}>
                 Talent
               </Button>
-              <Button id='2' className={`menubutton ${active==='2'?'active':''}`} onClick={GoToPage} sx={{p: '1rem', minWidth: '5rem', mr: '2rem', fontSize: '1.35rem', textTransform: 'none', my: 2, color: 'black', display: 'block' }}>
+              <Button id='2' className={`menubutton ${active==='2'?'active':''}`} onClick={GoToPage} sx={{p: '1rem', minWidth: '5rem', mr: '2rem', fontSize: '1rem', textTransform: 'none', my: 2, color: 'black', display: 'block' }}>
                 Companies
               </Button>
-              <Button id='3' className={`menubutton ${active==='3'?'active':''}`} onClick={GoToPage} sx={{p: '1rem', minWidth: '5rem', mr: '2rem', fontSize: '1.35rem', textTransform: 'none', my: 2, color: 'black', display: 'block' }}>
+              <Button id='3' className={`menubutton ${active==='3'?'active':''}`} onClick={GoToPage} sx={{p: '1rem', minWidth: '5rem', mr: '2rem', fontSize: '1rem', textTransform: 'none', my: 2, color: 'black', display: 'block' }}>
                 Sign In
               </Button>
-              <Button id='4' className={`menubutton`} onClick={GoToPage} sx={{p: '1rem', border: '1px solid #710193', mr: '2rem', minWidth: '5rem', fontSize: '1.35rem', textTransform: 'none', my: 2, color: 'black', display: 'block', borderRadius: '0.5rem' }}>
+              <Button id='4' className={`menubutton`} onClick={GoToPage} sx={{p: '1rem', border: '1px solid #710193', mr: '2rem', minWidth: '5rem', fontSize: '1rem', textTransform: 'none', my: 2, color: 'black', display: 'block', borderRadius: '0.5rem' }}>
                 Sign Up
               </Button>
-              <Button id='5' className={`menubutton`} onClick={GoToPage} sx={{p: '1rem', minWidth: '5rem', mr: '2rem', fontSize: '1.35rem', textTransform: 'none', my: 2, display: 'block' , backgroundColor:'#710193', color: 'white', borderRadius: '0.5rem', ":hover": {backgroundColor: 'white', color: '#710193'} }}>
+              <Button id='5' className={`menubutton`} onClick={GoToPage} sx={{p: '1rem', minWidth: '5rem', mr: '2rem', fontSize: '1rem', textTransform: 'none', my: 2, display: 'block' , backgroundColor:'#710193', color: 'white', borderRadius: '0.5rem', ":hover": {backgroundColor: 'white', color: '#710193'} }}>
                 Hire Developers
               </Button>
           </Box>

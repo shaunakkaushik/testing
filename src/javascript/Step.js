@@ -12,10 +12,10 @@ function Steps(){
 
                 <Grid item xs={12} sm={12} md={6} sx={{ position: 'relative'}}>
                     <Box id='step-holder' sx={{position: "absolute", left: '50%', top: '50%', textAlign:'center', width: '80%'}}>
-                        <Box sx={{fontSize: '2.5rem', fontWeight: 'bolder', color:'#111d5e', display: {xs: 'none', sm: 'none', md: 'flex'}, marginBottom: '2.5rem'}}>
+                        <Box sx={{fontSize: '2rem', fontWeight: 'bolder', color:'#111d5e', display: {xs: 'none', sm: 'none', md: 'flex'}, marginBottom: '2.5rem'}}>
                             It's as easy as ABC
                         </Box>
-                        <Box sx={{fontSize: '1.5rem', fontWeight: 'bolder', color:'#111d5e', display: { xm: 'flex', md: 'none'}, marginBottom: '1.5rem'}}>
+                        <Box sx={{fontSize: '1.25rem', fontWeight: 'bolder', color:'#111d5e', display: { xm: 'flex', md: 'none'}, marginBottom: '1.5rem'}}>
                             It's as easy as ABC
                         </Box>
 
@@ -25,10 +25,10 @@ function Steps(){
                             <Avatar alt='wh' src='Logo192.png' sx={{marginLeft: 'auto', marginRight: 'auto'}}/>
                         </Box>
                         <Box sx={{width: '85%', ml: 'auto', mr: '2'}}>
-                            <Box sx={{ fontSize: '1.75rem', textAlign: 'center', fontWeight: 'bolder', color: '#111d5e'}}>
+                            <Box sx={{ fontSize: '1.25rem', textAlign: 'center', fontWeight: 'bolder', color: '#111d5e'}}>
                                 Create a profile
                             </Box>
-                            <Box sx={{ marginTop: '1rem', display: {xs: 'none', sm: 'none', md:'flex'}, textAlign: 'center', paddingLeft: '10%', paddingRight:'10%', fontSize: '1.5rem'}}>
+                            <Box sx={{ marginTop: '1rem', display: {xs: 'none', sm: 'none', md:'flex'}, textAlign: 'center', paddingLeft: '10%', paddingRight:'10%', fontSize: '1rem'}}>
                                 Create your profile specifying your experience, skill and portfolio
                             </Box>
                         </Box>
@@ -40,10 +40,10 @@ function Steps(){
                             <Avatar alt='wh' src='Logo192.png' sx={{marginLeft: 'auto', marginRight: 'auto'}}/>
                         </Box>
                         <Box sx={{width: '85%', ml: 'auto', mr: '2'}}>
-                            <Box sx={{ fontSize: '1.75rem', textAlign: 'center', fontWeight: 'bolder', color: '#111d5e'}}>
+                            <Box sx={{ fontSize: '1.25rem', textAlign: 'center', fontWeight: 'bolder', color: '#111d5e'}}>
                                 Get Approved
                             </Box>
-                            <Box sx={{ marginTop: '1rem', display: {xs: 'none', sm: 'none', md:'flex'}, textAlign: 'center', paddingLeft: '10%', paddingRight:'10%', fontSize: '1.5rem'}}>
+                            <Box sx={{ marginTop: '1rem', display: {xs: 'none', sm: 'none', md:'flex'}, textAlign: 'center', paddingLeft: '10%', paddingRight:'10%', fontSize: '1rem'}}>
                                 Get your skills vetted through decentralized expert network to have your profile approved
                             </Box>
                         </Box>
@@ -55,10 +55,10 @@ function Steps(){
                             <Avatar alt='wh' src='Logo192.png' sx={{marginLeft: 'auto', marginRight: 'auto'}}/>
                         </Box>
                         <Box sx={{width: '85%', ml: 'auto', mr: '2'}}>
-                            <Box sx={{ fontSize: '1.75rem', textAlign: 'center', fontWeight: 'bolder', color: '#111d5e'}}>
+                            <Box sx={{ fontSize: '1.25rem', textAlign: 'center', fontWeight: 'bolder', color: '#111d5e'}}>
                                 Get Matched
                             </Box>
-                            <Box sx={{ marginTop: '1rem', display: {xs: 'none', sm: 'none', md:'flex'}, textAlign: 'center', paddingLeft: '10%', paddingRight:'10%', fontSize: '1.5rem'}}>
+                            <Box sx={{ marginTop: '1rem', display: {xs: 'none', sm: 'none', md:'flex'}, textAlign: 'center', paddingLeft: '10%', paddingRight:'10%', fontSize: '1rem'}}>
                                 Get connected to global tech jobs, that are best matched to your skillset
                             </Box>
                         </Box>
